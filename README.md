@@ -1,5 +1,6 @@
 # Curso fundamental da linguagem C: exercícios resolvidos 
 Neste curso vamos aprender sobre os seguintes tópicos fundamentais com exercícios resolvidos na linguagem mais fundamental: 
+- Conceito de dados e informação;
 - Tipos de dados (Caracteres, Inteiros, Reais); 
 - Estrutura de um programa;
 - Sequenciação; 
