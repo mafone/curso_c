@@ -12,4 +12,5 @@ Neste curso vamos aprender sobre os seguintes tópicos fundamentais com exercíc
 - Arrays (Vetores e Matrizes);
 - Ponteiros;
 - Controlo da memória dinamicamente;
-- Funções.
+- Funções;
+- Tipos personalizados (Typedef, Enum, Union, Struct)
